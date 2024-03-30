@@ -1,0 +1,2 @@
+
+from .classB import ClassB

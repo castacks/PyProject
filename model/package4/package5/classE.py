@@ -1,4 +1,6 @@
 
+from .. import ClassD
+from ...package2.package3 import ClassC
 
 class ClassE(object):
     def __init__(self):

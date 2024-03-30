@@ -1,7 +1,7 @@
 
-from package1 import ClassA
-from package2 import ClassB
-from package4.package5 import ClassE
+from .package1 import ClassA
+from .package2 import ClassB
+from .package4.package5 import ClassE
 
 def main():
 
